@@ -70,7 +70,9 @@ The main JS (`main.js`) handles:
 
 3. Make sure css/, js/, images/, and vendor/ directories are intact for full functionality.
 
-Contact
+---
+
+## Contact
 
 Email: mallaprasanth1234@gmail.com
 
